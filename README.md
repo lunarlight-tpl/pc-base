@@ -1,6 +1,6 @@
 # {{name}}
 
-pc 端基础页面模版
+{{description}}
 
 配置文件：build.config.js
 
