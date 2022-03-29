@@ -14,7 +14,7 @@
     "@fortissimo/component": "^0.1.1",
     "@fortissimo/hook": "^0.1.0",
     "@fortissimo/request": "^0.0.2",
-    "@fortissimo/util": "^0.2.0",
+    "@fortissimo/util": "^0.3.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-router": "^6.2.2",
